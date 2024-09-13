@@ -1,0 +1,52 @@
+{
+  "page": 1,
+  "per_page": 10,
+  "total": 4,
+  "total_pages": 1,
+  "data": [
+    {
+      "title": "Show HN: A retro video game console I've been working on in my free time",
+      "url": "https://internalregister.github.io/2019/03/14/Homebrew-Console.html",
+      "author": "pkiller",
+      "num_comments": 210,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at": 1552595103
+    },
+    {
+      "title": "Don't Fly During Ramadan",
+      "url": "http://varnull.adityamukerjee.net/post/59021412512/dont-fly-during-ramadan",
+      "author": "pkiller",
+      "num_comments": 961,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at": 1377191457
+    },
+    {
+      "title": "Pardon Snowden",
+      "url": "https://www.pardonsnowden.org/",
+      "author": "pkiller",
+      "num_comments": 781,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at": 1473841875
+    },
+    {
+      "title": "Chrome 69 will keep Google Cookies when you tell it to delete all cookies",
+      "url": "https://twitter.com/ctavan/status/1044282084020441088",
+      "author": "pkiller",
+      "num_comments": 810,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at": 1537864744
+    }
+  ]
+}
